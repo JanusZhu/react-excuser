@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-excuse/static/css/main.027ce0fe.css",
-    "main.js": "/react-excuse/static/js/main.6d5638f9.js",
-    "index.html": "/react-excuse/index.html",
-    "main.027ce0fe.css.map": "/react-excuse/static/css/main.027ce0fe.css.map",
-    "main.6d5638f9.js.map": "/react-excuse/static/js/main.6d5638f9.js.map"
+    "main.css": "/react-excuser/static/css/main.027ce0fe.css",
+    "main.js": "/react-excuser/static/js/main.6d5638f9.js",
+    "index.html": "/react-excuser/index.html",
+    "main.027ce0fe.css.map": "/react-excuser/static/css/main.027ce0fe.css.map",
+    "main.6d5638f9.js.map": "/react-excuser/static/js/main.6d5638f9.js.map"
   },
   "entrypoints": [
     "static/css/main.027ce0fe.css",
